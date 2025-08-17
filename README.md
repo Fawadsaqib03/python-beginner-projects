@@ -51,6 +51,15 @@ Convert amounts between four currencies using fixed rates:
 
 ---
 
+## 📧 Author
+Fawad Saqib  
+💬 Reach out via GitHub for feedback or collaboration!  
+
+---
+
+## 📝 License
+This project is intended for **academic and non-commercial use only**.
+
 ## 🚀 How to Run a Project
 1. Clone this repository:  
    ```bash
