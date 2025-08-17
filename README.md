@@ -1,5 +1,3 @@
-# python-beginner-projects
-A collection of simple Python projects built while learning the basics.
 # Beginner Python Projects 🚀
 
 A collection of simple **beginner-friendly Python projects** I built while learning Python basics.  
@@ -11,7 +9,7 @@ These projects help practice **functions, conditionals, loops, and user input** 
 
 | Month / Year | Project Name | Description |
 |--------------|-------------|-------------|
-| Nov 2024 | Calculator 🧮 | Basic calculator performing addition, subtraction, multiplication, division |
+| Nov 2024 | Simple Calculator 🧮 | Basic calculator performing addition, subtraction, multiplication, division |
 | Dec 2024 | Temperature Converter 🌡️ | Converts temperatures between Celsius, Fahrenheit, and Kelvin |
 | Jan 2025 | Currency Converter 💱 | Converts amounts between GBP, USD, EUR, and PKR using fixed exchange rates |
 
@@ -21,14 +19,14 @@ These projects help practice **functions, conditionals, loops, and user input** 
 
 ## 📌 Projects
 
-### 🧮 Calculator
+### 🧮 Simple Calculator
 A simple calculator that performs basic arithmetic operations:  
 - Addition ➕  
 - Subtraction ➖  
 - Multiplication ✖️  
 - Division ➗  
 
-📂 File: `Calculator.py`
+📂 File: `Simple Calculator.ipynb`
 
 ---
 
@@ -38,7 +36,7 @@ Convert temperatures between:
 - Celsius ↔ Kelvin  
 - Fahrenheit ↔ Kelvin  
 
-📂 File: `TemperatureConverter.py`
+📂 File: `Temperature Converter.ipynb`
 
 ---
 
@@ -49,7 +47,7 @@ Convert amounts between four currencies using fixed rates:
 - EUR 🇪🇺  
 - PKR 🇵🇰  
 
-📂 File: `CurrencyConverter.py`
+📂 File: `Currency Converter.ipynb`
 
 ---
 
